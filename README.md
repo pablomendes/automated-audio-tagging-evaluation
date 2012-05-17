@@ -68,3 +68,21 @@ See 'COPYING' and 'AUTHORS' files.
 The license in 'COPYING' only applies to the Python code and the automated transcripts and tags.
 The editorial data is under the same [non-commercial license](http://backstage.bbc.co.uk/archives/2005/01/terms_of_use.html)
 as the [BBC Programmes](http://www.bbc.co.uk/programmes) data.
+
+Citation
+----------------
+```bibtex
+@inproceedings{ldow2012raimondetal,
+  author    = {Yves Raimond and
+               Chris Lowis and
+               Roderick Hodgson and
+               Jonathan Tweed},
+  title     = {Automated semantic tagging of speech audio},
+  booktitle = {WWW (Companion Volume)},
+  year      = {2012},
+  pages     = {405-408},
+  ee        = {http://doi.acm.org/10.1145/2187980.2188060},
+  crossref  = {DBLP:conf/www/2012c},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+```
