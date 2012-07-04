@@ -61,6 +61,14 @@ Evaluating your own algorithm
 3. Replace the content of the data/automated-tags directory with your tags.
 4. Run the evaluation script.
 
+You can handle multiple results via ```git branch```. 
+> $ git checkout -b myResults1
+
+> $ git commit -a
+
+> $ git checkout myResults1  && ./evaluation.py
+
+
 Licensing terms and authorship
 ------------------------------
 
